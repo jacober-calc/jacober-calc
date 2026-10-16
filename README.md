@@ -1,4 +1,4 @@
-# RPN KEYSTROKE PROGRAMMING
+# Modern RPN Keystroke Programming
 
 I write program suites for the [SwissMicros DM32](https://www.swissmicros.com/product/dm32), a modern calculator modelled after the legendary HP-32SII. Most of my repos are DM32 statefiles that turn a pocket RPN calculator into a specialised tool for finance, navigation, orbital mechanics, math exploration, transit operations, and more. I also tinker with RPN on the TI-84 Plus CE.
 
